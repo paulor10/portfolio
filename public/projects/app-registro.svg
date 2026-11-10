@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="500" viewBox="0 0 420 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#324459"/>
+      <stop offset="1" stop-color="#141c28"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#1b2634"/>
+      <stop offset="1" stop-color="#101720"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="500" fill="url(#bg)"/>
+  <circle cx="66" cy="121" r="93" fill="#a9cce2" opacity=".14"/>
+  <rect x="82" y="32" width="178" height="386" rx="25" fill="#080d13" stroke="#71869d" stroke-width="2"/>
+  <rect x="91" y="51" width="160" height="348" rx="17" fill="url(#screen)"/>
+  <rect x="145" y="41" width="52" height="5" rx="3" fill="#667486"/>
+  <text x="108" y="82" fill="#9bbbd5" font-family="monospace" font-size="8">NOVO CADASTRO</text>
+  <text x="108" y="109" fill="#edf1f7" font-family="sans-serif" font-size="17" font-weight="600">Seu endereço</text>
+  <text x="108" y="135" fill="#aab6c4" font-family="monospace" font-size="8">CEP</text>
+  <rect x="108" y="143" width="126" height="28" rx="3" fill="#0c121b" stroke="#36485a"/>
+  <text x="117" y="161" fill="#8493a5" font-family="sans-serif" font-size="9">20000-000</text>
+  <text x="108" y="194" fill="#aab6c4" font-family="monospace" font-size="8">RUA</text>
+  <rect x="108" y="202" width="126" height="28" rx="3" fill="#0c121b" stroke="#36485a"/>
+  <text x="117" y="220" fill="#8493a5" font-family="sans-serif" font-size="9">Rua das Flores</text>
+  <text x="108" y="253" fill="#aab6c4" font-family="monospace" font-size="8">NÚMERO</text>
+  <rect x="108" y="261" width="56" height="28" rx="3" fill="#0c121b" stroke="#36485a"/>
+  <text x="117" y="279" fill="#8493a5" font-family="sans-serif" font-size="9">123</text>
+  <text x="108" y="312" fill="#aab6c4" font-family="monospace" font-size="8">CIDADE</text>
+  <rect x="108" y="320" width="126" height="28" rx="3" fill="#0c121b" stroke="#36485a"/>
+  <text x="117" y="338" fill="#8493a5" font-family="sans-serif" font-size="9">Rio de Janeiro</text>
+  <rect x="108" y="361" width="126" height="23" rx="3" fill="#9bbbd5"/>
+  <text x="171" y="376" fill="#101720" font-family="sans-serif" font-size="8" font-weight="600" text-anchor="middle">Salvar endereço</text>
+  <rect x="281" y="154" width="109" height="185" rx="6" fill="#17212d" stroke="#687e95" stroke-opacity=".6"/>
+  <text x="295" y="180" fill="#9bbbd5" font-family="monospace" font-size="8">VALIDAÇÃO</text>
+  <path d="m295 203 4 4 8-9" fill="none" stroke="#a9cce2" stroke-width="2"/>
+  <text x="312" y="206" fill="#c3cfda" font-family="sans-serif" font-size="8">CEP válido</text>
+  <path d="m295 229 4 4 8-9" fill="none" stroke="#a9cce2" stroke-width="2"/>
+  <text x="312" y="232" fill="#c3cfda" font-family="sans-serif" font-size="8">Campos obrigatórios</text>
+  <path d="m295 255 4 4 8-9" fill="none" stroke="#a9cce2" stroke-width="2"/>
+  <text x="312" y="258" fill="#c3cfda" font-family="sans-serif" font-size="8">Dados conferidos</text>
+  <text x="28" y="476" fill="#dce8f1" font-family="monospace" font-size="10" letter-spacing="2">REACT NATIVE · TYPESCRIPT</text>
+</svg>

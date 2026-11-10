@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="500" viewBox="0 0 420 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#29394d"/>
+      <stop offset="1" stop-color="#111720"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#1b2431"/>
+      <stop offset="1" stop-color="#131a24"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="500" fill="url(#bg)"/>
+  <circle cx="337" cy="96" r="95" fill="#789bb8" opacity=".22"/>
+  <rect x="38" y="46" width="344" height="405" rx="8" fill="url(#panel)" stroke="#70829a" stroke-opacity=".43"/>
+  <circle cx="58" cy="68" r="4" fill="#c47d77"/>
+  <circle cx="72" cy="68" r="4" fill="#c6a674"/>
+  <circle cx="86" cy="68" r="4" fill="#8cae9c"/>
+  <path d="M39 87h342" stroke="#718094" stroke-opacity=".25"/>
+  <text x="62" y="124" fill="#9bbbd5" font-family="monospace" font-size="10">PAINEL DO ESTUDANTE</text>
+  <text x="62" y="159" fill="#edf1f7" font-family="sans-serif" font-size="24" font-weight="600">Acesse seus estudos</text>
+  <text x="62" y="184" fill="#8d9bad" font-family="sans-serif" font-size="11">Entre para continuar de onde parou.</text>
+  <text x="62" y="223" fill="#aab6c4" font-family="monospace" font-size="9">E-MAIL</text>
+  <rect x="62" y="234" width="296" height="38" rx="3" fill="#0d131b" stroke="#344354"/>
+  <text x="75" y="258" fill="#8592a4" font-family="sans-serif" font-size="11">estudante@exemplo.com</text>
+  <text x="62" y="302" fill="#aab6c4" font-family="monospace" font-size="9">SENHA</text>
+  <rect x="62" y="313" width="296" height="38" rx="3" fill="#0d131b" stroke="#344354"/>
+  <text x="76" y="337" fill="#8592a4" font-family="sans-serif" font-size="13">••••••••••</text>
+  <rect x="62" y="370" width="296" height="42" rx="3" fill="#9bbbd5"/>
+  <text x="210" y="396" fill="#101720" font-family="sans-serif" font-size="12" font-weight="600" text-anchor="middle">Entrar na plataforma</text>
+  <text x="28" y="476" fill="#dce8f1" font-family="monospace" font-size="10" letter-spacing="2">HTML · CSS · JAVASCRIPT</text>
+</svg>
